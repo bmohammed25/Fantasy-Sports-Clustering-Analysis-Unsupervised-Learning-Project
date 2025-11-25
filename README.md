@@ -3,8 +3,6 @@ This project applies unsupervised machine learning to analyze and segment fantas
 🏆 Fantasy Sports Clustering Analysis
 Unsupervised Learning Project — Player Segmentation Using Machine Learning
 
-This project applies unsupervised machine learning to discover hidden patterns in fantasy football player performance data. Using clustering techniques, we group players into meaningful segments that can support fantasy draft decisions, performance evaluation, and sports analytics research.
-
 📁 Project Overview
 
 The notebook walks through a complete end-to-end machine learning workflow, including:
