@@ -51,32 +51,5 @@ Low-impact or underperforming players
 
 Visualizations help interpret cluster separation and feature influence.
 
-🛠️ Technologies Used
 
-Python 3
 
-Pandas, NumPy — data handling
-
-Matplotlib, Seaborn — visualization
-
-scikit-learn — clustering algorithms & preprocessing
-
-Jupyter Notebook (.ipynb)
-
-📚 Files in This Repository
-
-Fantasy_Sports_Clustering_Analysis_(more explanation).ipynb — main project notebook
-
-README.md — project description (this file)
-
-(Optional) Additional figures/reports can be added as needed
-
-🎯 Purpose of This Project
-
-This work serves as a practical demonstration of unsupervised learning in the context of sports analytics. Ideal for:
-
-ML/Data Science learners building a portfolio
-
-Fantasy sports enthusiasts exploring data-driven insights
-
-Anyone studying clustering and player segmentation techniques
